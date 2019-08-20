@@ -1,0 +1,23 @@
+TOPIC: Docker Advanced in Practical Way ( Using REST APIs )
+
+Level:
+    Intermediate
+
+Assumptions:
+    1. Docker Installation
+    2. Basic Understanding of Dockers and its Commands
+
+Sub-Topics:
+    1. REST ( Representational state transfer ) API ? -->
+
+        a)  REST is a concept, an architectural style which may use HTTP, FTP or other communication protocols but is widely used with HTTP.
+        b)  REST is the way HTTP should be used.
+        c)  REST API is an application program interface (API) that uses HTTP ( in most cases ) requests to GET, PUT, POST and DELETE data.
+
+
+    2. Run Docker commands using REST APIs.
+
+        a) List Images
+        b) List Containers
+        c) Start Container
+        d) Run Specific command inside container

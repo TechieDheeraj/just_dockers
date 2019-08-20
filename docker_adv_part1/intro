@@ -1,0 +1,14 @@
+TOPIC: Dockers Advanced in Practical Way
+
+Level: Intermediate
+
+Assumptions:
+    1. Docker Installation
+    2. Basic Understanding of Dockers and its Commands
+
+Topics:
+
+    1. Dockerfile introduction
+    2. Volume mount on Dockers using Dockerfile
+    3. Problem comes with mounting volumes
+    4. Making custom build Docker image
