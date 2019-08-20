@@ -1,0 +1,16 @@
+Docker Concepts and Introduction in Practical Way
+
+Level: Intermediate
+Assumtions:
+  Docker Installation  # Link in description
+
+1. What is Docker ?
+2. Docker Image Vs Docker Container
+3. VM vs Container
+4. Practical explaination :
+    a) docker hello world
+    b) Pull Nginx Image
+    c) Run Docker Events
+    d) Start Nginx container
+    e) Print running containers
+    f) Inspect container and print it's IP address.

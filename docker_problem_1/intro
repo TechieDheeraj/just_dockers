@@ -1,0 +1,12 @@
+TOPIC: Problem comes With Dockers
+
+Level:
+    Intermediate
+
+Assumptions:
+    1. Docker Installation
+    2. Basic Understanding of Dockers and its Commands
+
+Problem with Mounting Volumes:
+
+    1. Mounted with -v option while starting the container.

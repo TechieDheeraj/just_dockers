@@ -1,0 +1,13 @@
+TOPIC: Problem comes With Dockers #2
+
+Level:
+    Intermediate
+
+Assumptions:
+    1. Docker Installation
+    2. Basic Understanding of Dockers and its Commands
+
+Problem with Mounting of Docker Engine Socket:
+
+    1. Why we should not mount Docker Engine's Unix-socket directory.
+    2. Worst thing could happen is Normal user can turn into root User.
